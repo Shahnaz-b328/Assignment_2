@@ -1,0 +1,21 @@
+.custom-element{
+    color: navy;
+}
+.button-color{
+    height: 50px;
+    width: 165px;
+    background-color: olivedrab;
+    color: white;
+    border: 1px solid;
+    border-radius: 7%;
+}
+.icon-size{
+    height: 30%;
+    width: 23%;
+}
+.card{
+    border: none;
+}
+.card-footer{
+    border: none;
+}
